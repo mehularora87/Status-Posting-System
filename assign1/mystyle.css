@@ -1,0 +1,69 @@
+
+#home
+	{
+	padding: 30px;
+	background-color: #ffffff;
+	border-radius: 80px 10px 80px 10px;
+	}
+
+
+
+
+h1
+	{
+	border-bottom: 2px solid;
+	}
+
+h4
+	{
+	font-family: Calibri;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 10px;	
+	}
+body
+	{
+	font-family: Calibri;
+	font-size: 18px;
+	background-image: url("images/wood.jpg");
+	color: #000000;
+	}
+ 
+p#declare
+	{
+	font-style: oblique;	 
+	}
+	
+	
+ul#link
+	{
+	padding: 20px;
+	float: right;
+	position: relative;
+	margin:20px;
+	}
+
+ul#link li
+	{
+	display: inline;
+	padding: 10px;
+	}
+
+ul#link li a 
+	{
+	background-color: #ffffff;
+	padding: 10px 20px;
+	font-weight: bold;
+	text-decoration: none;
+	line-height: 2.8em;
+	color: #000000;
+	border-radius: 12px 4px 12px 4px;
+	}
+
+ul#link li a:hover
+	{
+	font-weight: bold;
+	background-color: #CD9454;
+	} 
